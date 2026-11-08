@@ -1,4 +1,4 @@
-# Mini-Projeto Avaliativo — Análise Exploratória de Dados (AED) da Base Varejo Kaggle
+# Miniprojeto Avaliativo — Análise Exploratória de Dados (AED) da Base Varejo Kaggle
 
 **Disciplina:** Visualização de Dados e Business Intelligence  
 **Curso:** CARREIRA TECH SCTEC - SENAI/SC - Lab 365 (Módulo: M1S07)  
